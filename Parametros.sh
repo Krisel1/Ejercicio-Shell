@@ -15,7 +15,7 @@ echo $1 $3
 #Completar la siguiente frase:
 #“En el fichero” <aquí va el nombre del fichero> “existen” <aquí va la cantidad de parámetros>
 
-nombreFichero=
-cantidad=
+cantidadParametros=$#
 
-echo "En el fichero” &nombreFichero “existen” &cantidad
+echo "El nombre del archivo es $0 y el la cantidad de parametros es $cantidadParametros" 
+
