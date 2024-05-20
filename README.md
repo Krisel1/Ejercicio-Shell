@@ -13,19 +13,10 @@ El proyecto está organizado en varios directorios, cada uno dedicado a un conce
 
 Ejercicio Shell                                                                                                                                                     
 ├── variables                                                                                                                                                       
-│ ├── ejemplo1.sh
-│ ├── ejemplo2.sh
-├── parametros
-│ ├── ejemplo1.sh
-│ ├── ejemplo2.sh
-├── condicionales
-│ ├── ejemplo1.sh
-│ ├── ejemplo2.sh
-│ └── ...
-├── bucles
-│ ├── ejemplo1.sh
-│ ├── ejemplo2.sh
-│ └── ejemplo3.sh
-└── README.md
+│ ├── ejemplo1.sh                                                                                                                                                   │ ├── ejemplo2.sh                                                                                                                                                   
+├── parametros                                                                                                                                                      │ ├── ejemplo1.sh                                                                                                                                                   
+│ ├── ejemplo2.sh                                                                                                                                                   
+├── condicionales                                                                                                                                                   │ ├── ejemplo1.sh                                                                                                                                                   │ ├── ejemplo2.sh                                                                                                                                                   
+├── bucles                                                                                                                                                          │ ├── ejemplo1.sh                                                                                                                                                   │ ├── ejemplo2.sh                                                                                                                                                   │ └── ejemplo3.sh                                                                                                                                                   └── README.md                                                                                                                                                        
 
 Cada script dentro de los directorios está documentado con comentarios que explican su funcionalidad y el propósito de cada sección del código.
