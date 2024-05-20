@@ -10,15 +10,14 @@ Este proyecto contiene una colección de scripts en SHELL que cubren una varieda
 
 ## Estructura del proyecto
 El proyecto está organizado en varios directorios, cada uno dedicado a un concepto específico. A continuación, se describe la estructura del proyecto:
-.
-├── variables
+
+Ejercicio Shell                                                                                                                                                     
+├── variables                                                                                                                                                       
 │ ├── ejemplo1.sh
 │ ├── ejemplo2.sh
-│ └── ...
 ├── parametros
 │ ├── ejemplo1.sh
 │ ├── ejemplo2.sh
-│ └── ...
 ├── condicionales
 │ ├── ejemplo1.sh
 │ ├── ejemplo2.sh
