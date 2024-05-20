@@ -10,26 +10,9 @@ Este proyecto contiene una colección de scripts en SHELL que cubren una varieda
 
 ## Estructura del proyecto
 El proyecto está organizado en varios directorios, cada uno dedicado a un concepto específico. A continuación, se describe la estructura del proyecto:
-
-Ejercicio Shell                                                                                                                                                     
-- `variables`
-  - `ejercicio1.sh`
-  - `ejercicio2.sh`
-- `parametros`
-  - `ejercicio1.sh`
-  - `ejercicio2.sh`
-- `condicionales`
-  - `ejercicio1.sh`
-  - `ejercicio2.sh`
-- `bucles`
-  - `ejercicio1.sh`
-  - `ejercicio2.sh`
-  - `ejercicio3.sh`
-- `README.md`
-
-
+                                                                                                                                                    
 <pre>
-.
+.Ejercicio Shell
 ├── variables
 │   ├── ejemplo1.sh
 │   ├── ejemplo2.sh
