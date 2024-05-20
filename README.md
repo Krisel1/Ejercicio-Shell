@@ -12,23 +12,20 @@ Este proyecto contiene una colección de scripts en SHELL que cubren una varieda
 El proyecto está organizado en varios directorios, cada uno dedicado a un concepto específico. A continuación, se describe la estructura del proyecto:
                                                                                                                                                     
 <pre>
-.Ejercicio Shell
+Ejercicio-Shell
 ├── variables
-│   ├── ejemplo1.sh
-│   ├── ejemplo2.sh
-│   └── ...
+│   ├── ejercicio1.sh
+│   ├── ejercicio2.sh
 ├── parametros
-│   ├── ejemplo1.sh
-│   ├── ejemplo2.sh
-│   └── ...
+│   ├── ejercicio.sh
+│   ├── ejercicio2.sh
 ├── condicionales
-│   ├── ejemplo1.sh
-│   ├── ejemplo2.sh
-│   └── ...
+│   ├── ejercicio1.sh
+│   ├── ejercicio2.sh
 ├── bucles
-│   ├── ejemplo1.sh
-│   ├── ejemplo2.sh
-│   └── ...
+│   ├── ejercicio1.sh
+│   ├── ejercicio2.sh
+│   └── ejercicio3.sh
 └── README.md
 </pre>
 
