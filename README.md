@@ -4,6 +4,25 @@ Este proyecto contiene una colección de scripts en SHELL que cubren una varieda
 
 Variables: Cómo declarar, asignar y manipular variables en SHELL.
 Parámetros: Uso de parámetros posicionales y opciones en scripts.
-Condicionales: Implementación de estructuras de control de flujo condicional (if, elif, else, while).
-Bucles: Utilización de bucles (for, while, until) para iterar sobre colecciones de datos o ejecutar comandos repetidamente.
+Condicionales: Implementación de estructuras de control de flujo condicional (if, then, elif, else).
+Bucles: Utilización de bucles (for, while) para iterar sobre colecciones de datos o ejecutar comandos repetidamente.
 
+El proyecto está organizado en varios directorios, cada uno dedicado a un concepto específico. A continuación, se describe la estructura del proyecto:
+
+Ejercicio-Shell
+├── variables
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+├── parametros
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+├── condicionales
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+│   └── ejemplo3.sh
+├── bucles
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+└── README.md
+
+Cada script dentro de los directorios está documentado con comentarios que explican su funcionalidad y el propósito de cada sección del código.
