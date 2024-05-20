@@ -27,4 +27,26 @@ Ejercicio Shell
   - `ejercicio3.sh`
 - `README.md`
 
+
+<pre>
+.
+├── variables
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+│   └── ...
+├── parametros
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+│   └── ...
+├── condicionales
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+│   └── ...
+├── bucles
+│   ├── ejemplo1.sh
+│   ├── ejemplo2.sh
+│   └── ...
+└── README.md
+</pre>
+
 Cada script dentro de los directorios está documentado con comentarios que explican su funcionalidad y el propósito de cada sección del código.
